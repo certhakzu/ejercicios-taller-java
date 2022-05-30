@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 
 public class Ejercicio10 {
 
-    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio6.class));
+    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio10.class));
     static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
