@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 public class Ejercicio3 {
 
     private static final Scanner scanner = new Scanner(System.in);
-    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio1.class));
+    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio3.class));
     static double radio;
     static double areaCirculo;
 

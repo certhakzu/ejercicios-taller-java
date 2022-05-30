@@ -10,7 +10,7 @@ public class Ejercicio4 {
     static double precio;
 
     private static final Scanner scanner = new Scanner(System.in);
-    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio1.class));
+    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio4.class));
 
     public static void main(String[] args) {
         logger.info("Digite precio del producto: ");

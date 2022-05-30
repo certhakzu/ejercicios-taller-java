@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 public class Ejercicio2 {
 
     private static final Scanner scanner = new Scanner(System.in);
-    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio1.class));
+    private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio2.class));
     static double numero1;
     static double numero2;
 
