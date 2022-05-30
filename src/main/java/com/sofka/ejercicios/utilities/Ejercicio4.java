@@ -7,7 +7,7 @@ import java.util.logging.Logger;
 public class Ejercicio4 {
 
     public static final double IVA = 0.19;//% IVA
-    public static double precio;
+    static double precio;
 
     private static final Scanner scanner = new Scanner(System.in);
     private static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio1.class));
