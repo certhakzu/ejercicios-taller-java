@@ -1,4 +1,4 @@
-package com.sofka.ejercicio1.utilities;
+package com.sofka.ejercicios.utilities;
 
 
 import java.util.logging.Level;
