@@ -7,8 +7,8 @@ import java.util.logging.Logger;
 public class Ejercicio1 {
 
     private static Logger logger = Logger.getLogger(String.valueOf(Ejercicio1.class));
-    static int numero1 = 8;
-    static int numero2 = 5;
+    static double numero1 = 8;
+    static double numero2 = 5;
 
     public static void main(String[] args) {
         if(numero1 > numero2){
