@@ -4,6 +4,10 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * @author Piter Velasquez
+ * @version Ejercicio 4
+ */
 public class Ejercicio4 {
 
     public static final double IVA = 0.19;//% IVA

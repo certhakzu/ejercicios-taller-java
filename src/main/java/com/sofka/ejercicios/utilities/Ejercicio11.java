@@ -6,6 +6,10 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * @author Piter Velasquez
+ * @version Ejercicio 11
+ */
 public class Ejercicio11 {
     static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio11.class));
     static final Scanner scanner = new Scanner(System.in);

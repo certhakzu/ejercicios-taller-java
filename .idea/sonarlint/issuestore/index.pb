@@ -1,23 +1,3 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio2.java,8\8\88e50ec55503dc85353ce31a41c1ad8d0ee19008
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio1.java,6\5\65f752900585541296609edafc059b224140a2ba
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio4.java,6\8\6805d86fa5e2a2ebf856c81ee14b7d2d666517d7
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio3.java,e\9\e9ddd5a5392af8aaa8b8a323acb87374fc01955a
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio5.java,b\2\b223b744bc0eb6f49df4d94a4efe82d0a7ac03a4
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio6.java,7\2\720eb46cefd0e877ef6fd0acbadc838d33d2a26b
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio7.java,1\7\17f53d563cbf50c541c3a3758a74d521c24e4929
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio8.java,a\d\ad55d3011684429911788722bc8d45f2242e2f60
-l
-<src/main/java/com/sofka/ejercicios/utilities/Ejercicio9.java,1\6\1697536904dfd578b68ce889e474b53a2f40f145
-m
-=src/main/java/com/sofka/ejercicios/utilities/Ejercicio10.java,a\9\a91a07269bb037c1bc7e8b8f2dfae48d2ec687a5

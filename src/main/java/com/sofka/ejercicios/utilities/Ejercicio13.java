@@ -4,6 +4,10 @@ import java.time.LocalDateTime;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * @author Piter Velasquez
+ * @version Ejercicio 13
+ */
 public class Ejercicio13 {
 
     static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio12.class));

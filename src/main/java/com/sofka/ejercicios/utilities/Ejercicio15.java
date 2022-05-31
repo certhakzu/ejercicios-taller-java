@@ -4,6 +4,10 @@ package com.sofka.ejercicios.utilities;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
+/**
+ * @author Piter Velasquez
+ * @version Ejercicio 15
+ */
 public class Ejercicio15 {
 
     static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio14.class));
