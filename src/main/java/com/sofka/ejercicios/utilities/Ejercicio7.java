@@ -4,8 +4,12 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+/**
+ * @author Piter Velasquez
+ * @version Ejercicio 7
+ */
 public class Ejercicio7 {
-    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio6.class));
+    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio7.class));
     static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
