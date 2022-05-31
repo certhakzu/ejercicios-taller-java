@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  */
 public class Ejercicio15 {
 
-    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio14.class));
+    static final Logger logger = Logger.getLogger(String.valueOf(Ejercicio15.class));
     static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
